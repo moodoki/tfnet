@@ -1,0 +1,11 @@
+*.swp
+__pycache__
+sandpit
+tests/dummymodel
+nano_train
+nano_train.job
+.vscode
+tags
+.ipynb_checkpoints
+tfrecord_datasets
+logdir

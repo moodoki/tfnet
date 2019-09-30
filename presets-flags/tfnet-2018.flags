@@ -1,0 +1,10 @@
+--batchsize=128
+--epochs=200
+--audio_sample_rate=16000
+--objective=l2
+--learning_rate=1e-4
+--spectral_copies
+--optimizer=adam
+--learning_rate_decay
+--time_nfilters=64, 128, 256, 256
+--freq_nfilters=64, 128, 256, 256

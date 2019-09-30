@@ -1,0 +1,9 @@
+--batchsize=128
+--epochs=120
+--audio_sample_rate=16000
+--objective=l2
+--learning_rate=1e-4
+--optimizer=adam
+--time_nfilters=128, 64, 512, 512
+--time_filtersize=65, 33, 17, 9, 9
+--fusion_op=time
